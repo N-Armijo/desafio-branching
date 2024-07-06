@@ -50,6 +50,7 @@ form {
 
 .btn:hover {
   box-shadow: 0 4px #2E282A;
+  background-color: brown;
   top: 2px; 
 }
 
@@ -57,3 +58,6 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+img{
+  border-radius: 50%;
+}
