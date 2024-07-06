@@ -15,10 +15,12 @@ h1 {
 }
   
 img {
-  max-width: 40%;
   padding: 20px;
   display: block;
   margin: 0 auto;
+  border-radius: 50%;
+  height: 25%;
+  width: auto;
 }
 
 form {
@@ -58,6 +60,3 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
-img{
-  border-radius: 50%;
-}
